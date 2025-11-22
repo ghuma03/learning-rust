@@ -1,0 +1,4 @@
+Em Rust, o corpo de uma função é basicamente uma sequência de statements, e essa sequência pode terminar com uma expressão. A diferença entre esses dois é importante, porque Rust trata praticamente tudo como expressão, e isso influencia como a gente escreve funções.
+
+Um statement é uma instrução que faz alguma coisa, mas não devolve valor. Por exemplo, declarar uma variável ou chamar uma função que não retorna nada.
+Uma expressão 
