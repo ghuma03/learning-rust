@@ -1,0 +1,6 @@
+Keywords são palavras reservadas que só podem ser usadas pela linguagem.
+
+A maioria tem um significado especial, enquanto outras ainda não têm funcionalidades 
+associadas à elas mas que podem ser adicionadas ao Rust no futuro.
+
+Lista de keywords reservadas pelo Rust: https://doc.rust-lang.org/book/appendix-01-keywords.html
